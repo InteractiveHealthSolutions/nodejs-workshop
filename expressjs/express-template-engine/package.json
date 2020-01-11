@@ -1,0 +1,21 @@
+{
+    "name": "crud",
+    "version": "1.0.0",
+    "main": "app.js",
+    "author": "Pervez Nawaz",
+    "license": "MIT",
+    "scripts": {
+        "start": "nodemon app"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "ejs": "^3.0.1",
+        "express": "^4.17.1",
+        "express-generator": "^4.16.1",
+        "express-mongoose-generator": "^3.0.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
